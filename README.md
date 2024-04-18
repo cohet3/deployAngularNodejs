@@ -1,4 +1,4 @@
-# AdminPro - Backend
+# Backend ClinicaRodas
 
 Recuerden ejecutar 
 
@@ -8,3 +8,5 @@ npm install
 
 
 node .\index.js
+
+dependencies update node.js 18/04/2024
